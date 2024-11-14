@@ -1,0 +1,101 @@
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[9].use[5]!./src/styles/components/Button.module.scss ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.Button_button__f48jK {
+  background-color: #ffe600;
+  color: #3483fa;
+  border: none;
+  padding: 12px 24px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  border-radius: 6px;
+  transition: background-color 0.3s ease;
+}
+.Button_button__f48jK:hover {
+  background-color: rgb(6.0336538462, 101.3653846154, 244.9663461538);
+}
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[9].use[5]!./src/styles/components/Texts.module.scss ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.Texts_interestingText__H5N3i {
+  font-size: 1.1rem;
+  color: #606060;
+  text-align: center;
+  margin-top: 10px;
+  font-weight: 300;
+  line-height: 1.5;
+  font-style: italic;
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  background-color: #f3f3f3;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.Texts_interestingText__H5N3i:hover {
+  background-color: rgb(230.25, 230.25, 230.25);
+  cursor: pointer;
+}
+
+.Texts_footer__6QQfO {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px 0;
+}
+
+.Texts_statsContainer__FAG8N {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.Texts_statText__a_ob_ {
+  font-size: 1rem;
+  color: #606060;
+  margin: 10px 0;
+}
+
+.Texts_resultText__My_Jd {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #ffe600;
+  margin-top: 20px;
+}
+
+.Texts_container__LEsmg {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.Texts_title_page__kA6Iz {
+  font-size: 2.5rem;
+  color: #ffe600;
+  margin-bottom: 20px;
+}
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[13].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[13].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[13].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[13].use[5]!./src/styles/main.scss ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[9].use[5]!./src/styles/components/Header.module.scss ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.Header_header__DGBV5 {
+  background-color: #ffe600;
+  padding: 1rem;
+  text-align: center;
+}
+
+.Header_title__qqPsU {
+  font-size: 2rem;
+  color: #3483fa;
+  text-transform: uppercase;
+}
+
+.Header_subtitle__Gw7Vg {
+  font-size: 1.5rem;
+  color: #606060;
+}
